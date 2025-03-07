@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648011762098",
+    "project_id": "mudahjev3",
+    "storage_bucket": "mudahjev3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648011762098:android:cf91562549d5e4a979bcab",
+        "android_client_info": {
+          "package_name": "com.mudahJe.mudahjev3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOUEq1OqNTP8zyok7_jwWZWf3lBEW-FEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
